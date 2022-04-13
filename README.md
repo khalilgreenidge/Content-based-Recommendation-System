@@ -2,6 +2,8 @@
 
 The following project contains a web application that leverages Artificial Intelligence such as Machine Learning, Natural Language Processing, and Information Retrieval. The following contains a detailed guide on how to run my project.
 
+![Image showing dashboard.php page](imgs/dashboard.JPG "Dashboard Page")
+
 ## Languages
 - PHP *version 7.3.2*
 - Python *version 3.9*
