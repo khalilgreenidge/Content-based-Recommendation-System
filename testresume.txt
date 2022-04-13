@@ -1,0 +1,39 @@
+Khalil Greenidge
+Cell: +447518850132 Email: khalilgreenidge16@gmail.com Linkedin.com/in/khalil021 Github.com/khalilgreenidge
+Education
+University of Birmingham Sep 2020 – Sep 2021
+Master’s in Computer Science Predicted Grade: 1st
+Relevant Courses: A.I and Machine Learning; Full-stack App Development; Software Engineering; Computer Systems.
+University of Nottingham Sep 2017 – Jul 2020
+Bachelor’s (Hons) in Management Grade: 2:1
+Relevant Courses: Business Economics; Financial Economics; Tech Entrepreneurship in Practice; Int’l Business
+Barbados Community College Sep 2013 – May 2015
+Associate Degree in Computer Studies: (Distinction) GPA: 3.98
+Relevant modules: Object-Oriented Programming (Java); Database Management; Web Apps; Mobile Apps (Android)
+Experience
+Business Analyst Intern, Capital One PLC (Nottingham, UK) Feb 2020 – Apr 2020
+• Acquired analysis by assessing a data model to provide a solution for repayment of balance transfer cards.
+• Devised a strategy, projected to improve customer satisfaction by 88% and increase market share to 2.5 Million.
+IT Support, Higher Education Development Unit (Bridgetown, Barbados) Jan 2015 – May 2015
+• Increased productivity for 10 employees by Implementing an inventory management system operating on PHP,
+HTML, CSS, SQL, JavaScript, and AJAX while following the SDLC model.
+• Configured an Apache XAMP server using DNS, DHCP and SSH while architecting relational databases and schemas.
+Software Projects
+Human Resource Management System
+• Created a HRM system to manage recruitment and selection process utilising PHP, HTML, CSS, SQL, JavaScript,
+AJAX and APIs.
+• Deployed an AWS LAMP server while configuring a distribution, DHCP, SSH, DNS, RDS, SSL and CI/CD pipelines (Git).
+Student Information System
+• Cultivated a SIS to allow lecturers and students to apply to courses, and received grades employing PHP, HTML,
+CSS, SQL, JavaScript, AJAX and APIs.
+• Architected system requirements and specifications according to the SDLC model while leading a team of 4.
+Games
+• Constructed CLI-based games with Java including Fallout Terminal; Rock, Paper, Scissors; Hangman, and Pontoon
+allowing users to play against a computer, resulting in a 100% grade.
+Bus Tracking System
+• Built a bus tracking system leveraging an arduino microcontroller with PHP, HTML, SQL, C++ and Google Maps API.
+Leadership and Awards
+• Languages: English (Native); Spanish (intermediate); PHP; Java; SQL; HTML; CSS; Javascript; Python; Ajax; C++.
+• Leadership: VP of Students’ Council; Youth Leader; Mentor; SACA Project Manager; SEO Candidate; Store Manager.
+• Interests: Skydiving – skydived from 3,500ft; Boxing – Barbados Boxing Team; Latin, Ballroom and Salsa – 1st in Jive.
+• Awards: Barbados Exhibition (National Scholarship); Nottingham Advantage Award; The Black Heart Scholarship.

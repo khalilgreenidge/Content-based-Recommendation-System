@@ -1,0 +1,5 @@
+{
+    "require": {
+        "divineomega/php-summary": "^3.0"
+    }
+}
