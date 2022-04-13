@@ -1,0 +1,22 @@
+
+Job responsibilities
+· You will solve technical problems in an ambiguous space with a huge customer/architecture impact
+· Develop and have input into the design of the architecture used for both our user interface and backend services
+· Develop across the full stack using React, CSS and JavaScript at the frontend with Java micro-services at the backend
+· Develop with a range of database technologies including Amazon Aurora, Amazon DynamoDB, and Elastic Search.
+· Work with key stakeholders throughout Prime Video and beyond at Amazon.
+· Hire and develop best engineers
+
+BASIC QUALIFICATIONS
+· Non-internship professional software development experience
+· Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design
+· Experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems
+
+PREFERRED QUALIFICATIONS
+· Degree in Computer Science or related field, or equivalent work experience.
+· Experience with frontend development utilizing React and TypeScript, or similar.
+· Experience with cloud computing, large-scale and high-availability distributed architectures.
+· Experience communicating with users and other technical teams to collect requirements, describe software product features and technical designs.
+· Strong analytical and excellent problem solving skills.
+· Strong written and verbal English communications skills
+· An ideal candidate would have experience in developing financial or accounting software, but this is not essential.
