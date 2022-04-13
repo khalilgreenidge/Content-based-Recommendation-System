@@ -112,10 +112,10 @@ Google Chrome browser.
 
 You should be presented with a screen that looks like this:
 
-![Image showing signin.php page](imgs/signin.jpg "Signin Page")
+![Image showing signin.php page](imgs/signin.JPG "Signin Page")
 
 
-###Signin Page
+### Signin Page
 Use these credentials to gain access:
 
 **Username**: admin                 \
@@ -126,7 +126,7 @@ You be directed to the dashboard page.
 
 ### Dashboard Page 
 
-![Image showing dashboard.php page](imgs/dashboard.jpg "Dashboard Page")
+![Image showing dashboard.php page](imgs/dashboard.JPG "Dashboard Page")
 
 On the page, you will be able to see the campaign discussed in the 
 "Use-Case" Section inside the report. From this window you can see some
@@ -139,13 +139,13 @@ From here you can simply click "View all Candidates".
 
 ### View All Candidates
 
-![Image showing allcandidates.php page](imgs/allcandidates.jpg "All Candidates Page")
+![Image showing allcandidates.php page](imgs/allcandidates.JPG "All Candidates Page")
 
 Inside this page, click the orange "Generate" button at the top to generate some candidates
 randomly. You will be presented with a screen to enter the number of 
 candidates you would like to generate. 
 
-![Image showing generate popup](imgs/generate.jpg "Generate popup")
+![Image showing generate popup](imgs/generate.JPG "Generate popup")
 
 Enter a value then click done. Simply choose which algorithm you would
 like to use for the recommendations by clicking either of the two
@@ -156,7 +156,7 @@ You would then be able to see results of the recommendations. For
 example, if you select the KNN algorithm, you should be presented 
 with a screen that looks like this:
 
-![Image showing the candidates being classified](imgs/knn-predict.jpg "Results Page")
+![Image showing the candidates being classified](imgs/knn-predict.JPG "Results Page")
 
 
 ### Problems?
