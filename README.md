@@ -162,5 +162,5 @@ with a screen that looks like this:
 
 
 ### Problems?
-Feel free to email me at khalilgreenidge16@gmail.com and I will try to help.
+Feel free to email me and I will try to help.
 Thank you.
